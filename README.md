@@ -2,7 +2,7 @@ Python-RSA Implementation
 =========================
 [![PyPI](https://pypi.org/static/images/logo-small.6eef541e.svg)](https://pypi.org/)
 
-This is a Python implementation of the RSA Algorithm. Made in Python 3.
+This is a Python implementation of the RSA Algorithm. Made in Python 3.7.
 
 Just for learning, we have how to code properly the implementation of RSA Algorithm in Python, and how to deal with a project. Help is always welcomed.
 
@@ -14,7 +14,7 @@ Steps
 - [![GitHub Local ssh-agent]()](https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 - Upload the project with the local Bayer ssh-keys.
 - Show the creation of the ssh-keygen and the classes.
-- Show RSA-algorithm implementation.
+- Show RSA-algoris.
 - Show the features.
 - [![Pure-Python RSA implementation]()](https://pypi.org/project/rsa/)
 - [![GitHub Documentation]()](https://github.com/sybrenstuvel/python-rsa/)
